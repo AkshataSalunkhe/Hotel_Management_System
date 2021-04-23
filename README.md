@@ -4,15 +4,14 @@ Hotel management system is specially designed for the purpose of ordering food i
 
 ### Concepts used :
 1. Object Oriented Programming:
-    
-    i.  Class and Objects
-    
-    ii. Friend Function
+        
+        i.  Class and Objects
+        ii. Friend Function
+
 2. Data Strcture: 
-    
-    i.  Linked-list
-    
-    ii. Queue
+        
+        i.  Linked-list 
+        ii. Queue
 
 ### Block Diagram :
 
